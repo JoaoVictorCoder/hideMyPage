@@ -25,6 +25,7 @@ input{
     border: solid .1rem;
     color: var(--fg-color);
     outline: none;
+    user-select: none;
     text-align: center;
 }
 
