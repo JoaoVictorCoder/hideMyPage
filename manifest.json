@@ -1,0 +1,10 @@
+{
+    "name": "Hide my page!",
+    "description": "A Simple extension made with JS that hides your page content when you press a selected key",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    }
+  }
